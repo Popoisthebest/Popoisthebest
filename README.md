@@ -107,7 +107,7 @@ A simple project for measuring decibel levels and displaying alerts.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Popoisthebest&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Popoisthebest&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
