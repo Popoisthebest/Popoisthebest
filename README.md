@@ -93,23 +93,30 @@ A simple project for measuring decibel levels and displaying alerts.
 
 ## GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Popoisthebest&show_icons=true&theme=github_dark"
+    alt="GitHub Stats"
+  />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Popoisthebest&show_icons=true&hide_border=true&theme=github_dark" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Popoisthebest&layout=compact&hide_border=true&theme=github_dark" />
-
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Popoisthebest&layout=compact&theme=github_dark"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
 ## Activity
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Popoisthebest&theme=github-dark-blue&hide_border=true" />
-
-</div>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Popoisthebest&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
 
