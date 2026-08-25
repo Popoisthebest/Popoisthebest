@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # Hi, I'm Popo 👋
@@ -121,4 +120,3 @@ A simple project for measuring decibel levels and displaying alerts.
 ![Snake animation](https://raw.githubusercontent.com/Popoisthebest/Popoisthebest/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-```
