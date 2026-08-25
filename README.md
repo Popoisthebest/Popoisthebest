@@ -95,14 +95,14 @@ A simple project for measuring decibel levels and displaying alerts.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Popoisthebest&show_icons=true&theme=github_dark"
+    src="https://github-stats-extended.vercel.app/api?username=Popoisthebest&show_icons=true&theme=github_dark"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Popoisthebest&layout=compact&theme=github_dark"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Popoisthebest&layout=compact&theme=github_dark"
     alt="Top Languages"
   />
 </p>
