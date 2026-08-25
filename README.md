@@ -109,17 +109,6 @@ A simple project for measuring decibel levels and displaying alerts.
 
 ---
 
-## Activity
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Popoisthebest&theme=dark&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
 <div align="center">
 
 ### Build. Learn. Improve. Repeat.
